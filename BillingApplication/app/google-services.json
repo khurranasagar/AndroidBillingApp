@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740986889424",
+    "firebase_url": "https://billingapp-3cfb1.firebaseio.com",
+    "project_id": "billingapp-3cfb1",
+    "storage_bucket": "billingapp-3cfb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740986889424:android:601e5a9ddbfcdfcd",
+        "android_client_info": {
+          "package_name": "com.example.sagar.billingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740986889424-lbussbv3bsveae7lvak3bsjm6aepg5qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9BhxF6ANvPq1_7U08pCK_bIzeADrRnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
